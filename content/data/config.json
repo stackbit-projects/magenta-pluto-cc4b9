@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://magenta-pluto-cc4b9.netlify.app"
 }
